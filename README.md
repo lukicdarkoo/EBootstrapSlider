@@ -1,10 +1,12 @@
 Yii extension based on bootstrap-slider.js
 ==========================================
 
+Extension for Yii based on slider from http://www.eyecon.ro/bootstrap-slider/
+
 REQUIREMENTS
 ------------
 
-Tested on Yii 1.1.13
+Yii 1.1.13 (tested), Bootstrap v2.3.1 (tested)
 
 
 INSTALATION
